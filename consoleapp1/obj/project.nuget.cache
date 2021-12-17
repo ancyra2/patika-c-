@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUX80LU8gVF0NyrVmxLMTvzLkjRmBfMSZClgNGgndZVpJ0qvO6SVKvsYDyMga5nX5Pey0iWD1ISlM/MFwZwjBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\consoleapp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
