@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\consoleapp1.csproj": {}
+    "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\odev2\\odev2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\consoleapp1.csproj": {
+    "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\odev2\\odev2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\consoleapp1.csproj",
-        "projectName": "consoleapp1",
-        "projectPath": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\consoleapp1.csproj",
+        "projectUniqueName": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\odev2\\odev2.csproj",
+        "projectName": "odev2",
+        "projectPath": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\odev2\\odev2.csproj",
         "packagesPath": "C:\\Users\\duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\consoleapp1\\obj\\",
+        "outputPath": "C:\\Users\\duran\\Desktop\\Projeler\\C#\\ConsoleApps\\patika-csharp\\odev2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
