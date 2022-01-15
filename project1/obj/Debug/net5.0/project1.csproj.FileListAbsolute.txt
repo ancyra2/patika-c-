@@ -1,0 +1,16 @@
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.exe
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.deps.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.runtimeconfig.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.runtimeconfig.dev.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\ref\project1.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\bin\Debug\net5.0\project1.pdb
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.csproj.AssemblyReference.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.AssemblyInfoInputs.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.AssemblyInfo.cs
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\ref\project1.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.pdb
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\project1\obj\Debug\net5.0\project1.genruntimeconfig.cache
