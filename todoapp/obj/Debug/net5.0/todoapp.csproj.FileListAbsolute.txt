@@ -1,0 +1,16 @@
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.exe
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.deps.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.runtimeconfig.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.runtimeconfig.dev.json
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\ref\todoapp.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\bin\Debug\net5.0\todoapp.pdb
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.csproj.AssemblyReference.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.AssemblyInfoInputs.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.AssemblyInfo.cs
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.csproj.CoreCompileInputs.cache
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\ref\todoapp.dll
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.pdb
+C:\Users\duran\Desktop\Projeler\C#\ConsoleApps\patika-csharp\todoapp\obj\Debug\net5.0\todoapp.genruntimeconfig.cache
